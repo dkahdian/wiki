@@ -12,7 +12,7 @@
 	<artifactId>wiki</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>wiki</name>
-	<description>Template project</description>
+	<description>Wikipedia API service for searching articles and exploring connections</description>
 	<url/>
 	<licenses>
 		<license/>
